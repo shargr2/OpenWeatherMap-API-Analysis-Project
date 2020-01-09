@@ -1,8 +1,8 @@
-# Unit 6 | Assignment - What's the Weather Like?
+# What's the Weather Like?
 
 ## Background
 
-In this project we attempt to show how the weather changes based on longitude and latitude. 
+In this project I attempted to show how the weather changes based on longitude and latitude. 
 
 ## WeatherPy
 
